@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>The Ultimate Termux Command Guide</h1>
-  <p>A comprehensive, beautifully organized handbook for mastering the native commands and unique API utilities of the Termux environment.</p>
+  <h1>راهنمای جامع دستورات ترموکس</h1>
+  <p>یک کتابچه راهنمای جامع و زیبا برای تسلط بر دستورات بومی و ابزارهای API منحصر به فرد محیط Termux.</p>
 
-  <!-- Badges -->
+  <!-- نشان‌ها -->
   <p>
     <a href="https://github.com/BlackTechX011/Termux-Command-Handbook/stargazers"><img src="https://img.shields.io/github/stars/BlackTechX011/Termux-Command-Handbook?style=for-the-badge&color=gold" alt="stars"></a>
     <a href="https://github.com/BlackTechX011/Termux-Command-Handbook/network/members"><img src="https://img.shields.io/github/forks/BlackTechX011/Termux-Command-Handbook?style=for-the-badge&color=blue" alt="forks"></a>
@@ -11,15 +11,15 @@
   </p>
 
   <h4>
-    <a href="https://www.GitHub.com/BlackTechX011/">My GitHub</a>
+    <a href="https://www.GitHub.com/BlackTechX011/">گیت‌هاب من</a>
     <span> · </span>
-    <a href="https://www.instagram.com/BlackTechX011/">Instagram</a>
+    <a href="https://www.instagram.com/BlackTechX011/">اینستاگرام</a>
     <span> · </span>
-    <a href="https://www.youtube.com/@BlackTechX_">YouTube</a>
+    <a href="https://www.youtube.com/@BlackTechX_">یوتیوب</a>
     <span> · </span>
-    <a href="https://github.com/BlackTechX011/Termux-Command-Handbook/issues">Report Bug</a>
+    <a href="https://github.com/BlackTechX011/Termux-Command-Handbook/issues">گزارش اشکال</a>
     <span> · </span>
-    <a href="https://github.com/BlackTechX011/Termux-Command-Handbook/issues">Request Feature</a>
+    <a href="https://github.com/BlackTechX011/Termux-Command-Handbook/issues">درخواست ویژگی</a>
   </h4>
 </div>
 
@@ -36,43 +36,43 @@
 
 
 
-## 🗺️ Roadmap: The 10 Chapters
+## 🗺️ نقشه راه: ده فصل
 
-Our journey is broken down into 10 distinct, easy-to-navigate chapters. Click on any title to dive in!
+سفر ما به 10 فصل مجزا و آسان برای پیمایش تقسیم شده است. برای شروع روی هر عنوان کلیک کنید!
 
-| Chapter | Title                                               | 📖 Description                                                               |
+| فصل | عنوان | 📖 توضیحات |
 | :-----: | --------------------------------------------------- | ---------------------------------------------------------------------------- |
-| **01**  | [The Termux Foundation](chapter_01.md)                | 🚀 Essential commands for package management, file operations, and navigation. |
-| **02**  | [Interacting with the Android UI](chapter_02.md)      | 🎨 Create dialogs, toasts, and notifications directly from the command line.   |
-| **03**  | [Accessing Device Hardware](chapter_03.md)            | 💡 Control the camera, flashlight, sensors, battery, and other hardware.       |
-| **04**  | [Communication & Connectivity](chapter_04.md)         | 📡 Automate SMS, initiate calls, query contacts, and manage Wi-Fi.           |
-| **05**  | [Process, Job, & Session Control](chapter_05.md)      | ⚙️ Master background tasks, job control, and session management for servers.  |
-| **06**  | [Advanced File & Text Manipulation](chapter_06.md)    | 📜 Unleash the power of `grep`, `sed`, and `awk` to process data like a pro.   |
-| **07**  | [Scripting & Automation](chapter_07.md)               | 🤖 Learn the building blocks of shell scripting to automate complex tasks.     |
-| **08**  | [Storage & Archive Management](chapter_08.md)         | 🗄️ Manage permissions, disk usage, and create/extract archives (`tar`, `zip`).|
-| **09**  | [Advanced Networking & Secure Connections](chapter_09.md) | 🌐 Use `ssh`, `scp`, `rsync`, and other tools for secure remote administration.|
-| **10**  | [System Internals & Diagnostics](chapter_10.md)       | 🔬 Look under the hood with `logcat` and `getprop` for deep system debugging.   |
+| **01** | [بنیاد ترموکس](chapter_01.md) | 🚀 دستورات ضروری برای مدیریت بسته‌ها، عملیات فایل‌ها و پیمایش. |
+| **02** | [تعامل با رابط کاربری اندروید](chapter_02.md) | 🎨 مستقیماً از خط فرمان، دیالوگ‌ها، تست‌ها و اعلان‌ها را ایجاد کنید. |
+| **03** | [دسترسی به سخت‌افزار دستگاه](chapter_03.md) | 💡 کنترل دوربین، چراغ قوه، حسگرها، باتری و سایر سخت‌افزارها. |
+| **04** | [ارتباطات و اتصال](chapter_04.md) | 📡 خودکارسازی پیامک، شروع تماس، جستجوی مخاطبین و مدیریت وای‌فای. |
+| **05** | [کنترل فرآیند، کار و جلسه](chapter_05.md) | ⚙️ تسلط بر وظایف پس‌زمینه، کنترل کار و مدیریت جلسه برای سرورها. |
+| **06** | [دستکاری پیشرفته فایل و متن](فصل_06.md) | 📜 قدرت `grep`، `sed` و `awk` را برای پردازش داده‌ها مانند یک حرفه‌ای آزاد کنید. |
+| **07** | [اسکریپت‌نویسی و اتوماسیون](chapter_07.md) | 🤖 یادگیری بلوک‌های سازنده اسکریپت‌نویسی پوسته برای خودکارسازی وظایف پیچیده. |
+| **08** | [مدیریت ذخیره‌سازی و بایگانی](chapter_08.md) | 🗄️ مدیریت مجوزها، میزان استفاده از دیسک و ایجاد/استخراج بایگانی‌ها (`tar`، `zip`).|
+| **09** | [شبکه‌سازی پیشرفته و اتصالات امن](فصل_09.md) | 🌐 از `ssh`، `scp`، `rsync` و سایر ابزارها برای مدیریت از راه دور ایمن استفاده کنید.|
+| **10** | [مشکلات داخلی و تشخیص عیب سیستم](chapter_10.md) | 🔬 برای اشکال‌زدایی عمیق سیستم، با `logcat` و `getprop` به اعماق سیستم نگاهی بیندازید. |
 
 ---
 
-## 🤝 How to Contribute
+## 🤝 نحوه مشارکت
 
-Contributions make the open-source community an amazing place to learn, create, and share knowledge. Any contributions you make are **greatly appreciated**.
+مشارکت‌ها، جامعه متن‌باز را به مکانی شگفت‌انگیز برای یادگیری، خلق و اشتراک‌گذاری دانش تبدیل می‌کند. از هرگونه مشارکتی که انجام می‌دهید، **بسیار قدردانی** می‌شود.
 
-If you have a suggestion to improve this guide, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+اگر پیشنهادی برای بهبود این راهنما دارید، لطفاً مخزن را فورک کنید و یک درخواست pull ایجاد کنید. همچنین می‌توانید به سادگی یک مشکل را با برچسب "enhancement" باز کنید.
 
-1.  **Fork the Project**
-2.  **Create your Feature Branch** (`git checkout -b feature/AmazingSuggestion`)
-3.  **Commit your Changes** (`git commit -m 'Add some AmazingSuggestion'`)
-4.  **Push to the Branch** (`git push origin feature/AmazingSuggestion`)
-5.  **Open a Pull Request**
+۱. **پروژه را فورک کنید**
+۲. **شاخه‌ی ویژگی‌ها** خود را ایجاد کنید** (`git checkout -b feature/AmazingSuggestion`)
+۳. **تغییرات خود را ثبت کنید** (`git commit -m 'Add some AmazingSuggestion'`)
+۴. **پوشش به شاخه** (`git push origin feature/AmazingSuggestion`)
+۵. **باز کردن یک درخواست pull**
 
-Don't forget to give the project a star! Thanks again!
+فراموش نکنید که به پروژه یک ستاره بدهید! دوباره متشکرم!
 
 ---
 
-## 📜 License
+## 📜 مجوز
 
-See `LICENSE.md` for more information.
+برای اطلاعات بیشتر به `LICENSE.md` مراجعه کنید.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">بازگشت به بالا</a>)</p>
