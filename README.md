@@ -25,13 +25,12 @@
 
 ---
 
-## 🚀 About The Project
+## 🚀 🚀 درباره پروژه
+این راهنما به عنوان یک مستند قطعی و مناسب برای مبتدیان برای قدرت واقعی ترموکس - توانایی آن در ایجاد پل ارتباطی بین خط فرمان لینوکس و سیستم عامل اندروید - ایجاد شده است.
 
-This guide was created to be the definitive, beginner-friendly documentation for the **real power of Termux**—its ability to bridge the Linux command line with the Android Operating System.
+برخلاف راهنماهای دیگر که دستورات عمومی لینوکس را با هم ترکیب می‌کنند، این کتابچه راهنما منحصراً بر ابزارهایی تمرکز دارد که Termux را منحصر به فرد می‌کنند: pkgمدیریت، termux-apiابزارهای گسترده و پوسته بومی برای اتوماسیون و کنترل.
 
-Unlike other guides that mix in generic Linux commands, this handbook focuses exclusively on the tools that make Termux unique: `pkg` management, the extensive `termux-api`, and native shell utilities for automation and control.
-
-> Whether you're a curious beginner taking your first steps or a seasoned scripter looking for a comprehensive reference, this handbook has something for you.
+چه یک مبتدی کنجکاو باشید که اولین قدم‌های خود را برمی‌دارد و چه یک اسکریپت‌نویس باتجربه که به دنبال یک مرجع جامع است، این کتابچه راهنما چیزی برای شما دارد.
 
 ---
 
